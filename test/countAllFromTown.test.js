@@ -1,7 +1,7 @@
 import assert from "assert";
 import countAllFromTown from "../countAllFromTown.js"
 
-describe('this test is for isfrombellville' , function(){
+describe('this test is for countAllFromTown ' , function(){
 
     it('should return fromStellies ' , function(){
         
